@@ -2,6 +2,24 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+## Final Product
+###### Main Page
+!["Main Page"](https://github.com/htkim94/jungle-rails/blob/master/docs/main_page.jpg)
+###### Cart Page
+!["Cart Page"](https://github.com/htkim94/jungle-rails/blob/master/docs/cart_page.jpg)
+###### Payment Pop-up
+!["Payment Pop-up"](https://github.com/htkim94/jungle-rails/blob/master/docs/payment_pop_up.jpg)
+###### Order Page
+!["Order Page"](https://github.com/htkim94/jungle-rails/blob/master/docs/order_page.jpg)
+###### Admin Products Page
+!["Admin Product"](https://github.com/htkim94/jungle-rails/blob/master/docs/admin_products_page.jpg)
+###### Admin Dashboard Page
+!["Admin Dashboard"](https://github.com/htkim94/jungle-rails/blob/master/docs/admin_dashboard_page.jpg)
+###### Register Page
+!["Register Page"](https://github.com/htkim94/jungle-rails/blob/master/docs/register_page.jpg)
+###### Login Page
+!["Login Page"](https://github.com/htkim94/jungle-rails/blob/master/docs/login_page.jpg)
+
 ## Additional Steps for Apple M1 Machines
 
 1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)
